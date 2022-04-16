@@ -1,0 +1,6 @@
+Flavours of If Statements
+
+1. Simple If
+2. If else
+3. Ladder If else
+4. Nested If else (Conditions inside condition)

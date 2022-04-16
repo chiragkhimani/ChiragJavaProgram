@@ -1,0 +1,42 @@
+Program - Set of instruction to perform specific task
+
+IDE - IntelliJ Idea, Eclipse, NetBeans
+
+1. Created project
+2. Create package -> com.java.class01
+3. Create class
+
+What are the components of class?
+
+1) documentation (documentation will be in any order)
+2) *package declaration
+3) Import section
+4) *Class declaration
+5) *main method
+
+
+**Java will execute code from top to bottom and left to right
+
+Grammers
+
+Identifier - Java identifier is an user defined names given to package, class, methods or variables
+to identify each variables, class or methods uniquely.
+
+Rules of Identifier
+
+1) Allowed char is 0-9, a-z, $, _
+2) You cannot start identifier name with digit - Invalid values :  1stNum, 1num
+3) Identifiers name are case sensitive
+4) We cannot use keyword reserved by java as identifier
+
+Some examples:
+
+abc123 	- valid
+__a__   - valid
+$$$$	- valid
+num 1   - Invalid
+_1num_	- valid
+num_1 	- valid
+
+
+data types - it's type of data we want to store into variable
