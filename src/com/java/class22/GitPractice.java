@@ -6,5 +6,6 @@ public class GitPractice {
         System.out.println("gitKnowsMe was here");
         System.out.println("TestingMyFirstProgram");
         System.out.println("This is my test program");
+        System.out.println("it is fun to learn Git");
     }
 }
