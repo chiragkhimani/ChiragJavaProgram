@@ -11,9 +11,9 @@ public class DivisionOperator {
 
         System.out.println(588 / 10);
 
-        System.out.println(99 / 10);
-        System.out.println(2 / 10);
-        System.out.println(43 / 10);
-        System.out.println(99 / 10);
+        System.out.println(99 / 10); // 9
+        System.out.println(2 / 10);  // 0
+        System.out.println(43 / 10); // 4
+        System.out.println(99 / 10); // 9
     }
 }

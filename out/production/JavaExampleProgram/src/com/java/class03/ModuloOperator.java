@@ -15,10 +15,10 @@ public class ModuloOperator {
         System.out.println(14 % 2);
         System.out.println(17 % 2);
 
-        System.out.println(12 % 10);
-        System.out.println(51 % 10);
-        System.out.println(14 % 10);
-        System.out.println(17 % 10);
+        System.out.println(12 % 10); // 2
+        System.out.println(51 % 10); // 1
+        System.out.println(14 % 10); // 4
+        System.out.println(17 % 10); // 7
 
 
     }
