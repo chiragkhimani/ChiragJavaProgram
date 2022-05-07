@@ -4,7 +4,7 @@ package com.java.class21;
 //  33
 //  555
 //  7777
-//  99999
+//  999
 
 public class Homework4 {
     public static void main(String[] args) {
