@@ -4,40 +4,13 @@ public class GitPractice {
     public static void main(String[] args) {
         System.out.println("Completed development");
         System.out.println("We're on chirag branch");
-
-
-        System.out.println("This is test by Swati Panda");
-
-
+        System.out.println("Andrei made these changes");
+<<<<<<< HEAD
         System.out.println("This is Fernando's Text");
-
+=======
         System.out.println("Oleg Did This");
-
-
-
-
-
-
-
-
-
-
-
-
-
-        System.out.println("Comment added by Oleh Oleksiienko");
-
-
-
-
-        System.out.println("Test");
-        System.out.println("This is Fernando's Text");
-        System.out.println("Oleg Did This");
-
-        System.out.println("Testing the chirag_12211");
-        System.out.println("Testing push function");
+>>>>>>> a67ff989c2efff5795544a07d1f99979283d70c5
     }
-
 }
 
 
