@@ -18,6 +18,7 @@ class B extends A{
     }
 }
 class C extends B{
+
     C(){
         System.out.println("3");
     }
