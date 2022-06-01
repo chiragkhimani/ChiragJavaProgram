@@ -1,7 +1,7 @@
 package com.java.class30;
 
 // Parent / Super / Base Class
-public class BasicCalculator {
+class BasicCalculator {
     public void sum(int a, int b) {
         System.out.println("sum = "+(a + b));
     }

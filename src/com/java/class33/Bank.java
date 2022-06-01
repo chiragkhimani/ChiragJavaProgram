@@ -1,7 +1,9 @@
 package com.java.class33;
 
 public class Bank {
+
     int balance;
+
     public void showBalance(){
         System.out.println(balance);
     }

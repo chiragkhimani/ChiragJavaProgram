@@ -26,6 +26,11 @@ class FlightBooking{
 
 public class MethodOverloadingExample {
     public static void main(String[] args) {
+        FlightBooking flightBooking = new FlightBooking();
+        flightBooking.bookTicket(200);
+        flightBooking.bookTicket("Chirag");
+        flightBooking.bookTicket("Chirag",200);
+        flightBooking.bookTicket(12,"Chirag");
 
     }
 }
