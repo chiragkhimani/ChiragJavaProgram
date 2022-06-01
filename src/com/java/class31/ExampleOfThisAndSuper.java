@@ -1,10 +1,6 @@
 package com.java.class31;
 
-class GrandParent{
-    int a = 40;
-}
-
-class Parent extends GrandParent{
+class Parent{
     int a = 10; // instance variable
 }
 

@@ -8,7 +8,6 @@ public class PayPal {
     public void viewInterestRate(Bank b){
         b.displayInterestRate();
     }
-
 }
 
 class TestClass{
