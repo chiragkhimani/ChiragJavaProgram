@@ -2,7 +2,7 @@ package com.java.class17;
 
 import java.util.Scanner;
 
-// Print all prime numbers from 1 to 50
+// Print all prime numbers taken from user
 public class PrintPrimeNumberFrom1to50 {
     public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
