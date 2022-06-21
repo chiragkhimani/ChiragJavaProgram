@@ -5,11 +5,13 @@ import java.util.Set;
 
 public class SetAssignment {
     public static void main(String[] args) {
-        String str = "a compulsory contribution to state revenue, levied by the government on workers income and business profits or added to the cost of some goods services and transactions";
+        String str = "the compulsory contribution to state revenue, levied by the government on workers income and business profits or added to the cost of some goods services and transactions";
 
         String[] words = str.split(" ");
 
+
         Set<String> setOfWords = new HashSet<>();
+        Set<String> duplicateWords = new HashSet<>();
 
         // Approach 1
         for(int i=0; i<words.length; i++){
@@ -24,11 +26,11 @@ public class SetAssignment {
         //  Approach 2
         for(String word : words){
             if(setOfWords.add(word)==false){
-                System.out.println(word);
+                duplicateWords.add(word);
             }
         }
 
-
+        System.out.println("Duplicate words: "+duplicateWords);
 
     }
 }

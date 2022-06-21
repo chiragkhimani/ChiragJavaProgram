@@ -3,7 +3,7 @@ package com.java.class08;
 // Vowel char are - a, e, i, o, u
 public class CheckCharIsVowel {
     public static void main(String[] args) {
-        char c = 'A';
+        char c = 'd';
 
         if(c == 'a' || c=='e' || c=='u' || c=='o' || c=='i'){
             System.out.println("Vowel");
